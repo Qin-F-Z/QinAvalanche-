@@ -35,7 +35,7 @@ QinAvalanche Guard is an **offline, double-click-to-run HTML5 interactive Flash*
 - **Counterfactual risk mapping** — runs full integer simulations for every possible drop location on the current state, outputting a global risk heatmap
 - **Visual diagnostic laboratory** — integer state view, AI visual baseline (clearly marked as pending blind-test diagnostic baseline), responsive desktop/mobile UI
 
-> **Important Notice**: Sandpile model results MUST NOT be directly extrapolated to materials, geology, finance, or other real-world systems without independent validation. This software's outputs are for research, education, demonstration, and internal evaluation only. See [DISCLAIMER.md](DISCLAIMER.md).
+> **Important Notice**:This software's outputs are for research, education, demonstration, and internal evaluation only. 
 
 ---
 
