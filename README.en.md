@@ -1,5 +1,5 @@
 <!--
-  Copyright (C) 2026  Qin Chen
+  Copyright (C) 2026  Qin + Chen
 
   This program is free software; you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
@@ -192,7 +192,7 @@ Every source code file MUST begin with the standard GPL v2 recommended declarati
 ```javascript
 /*
  *  QinAvalanche Guard — Sandpile Avalanche Deterministic Critical-Event Computation Lab
- *  Copyright (C) 2026  Qin Chen
+ *  Copyright (C) 2026  Qin + Chen
  *
  *  This program is free software; you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
@@ -215,14 +215,14 @@ Every source code file MUST begin with the standard GPL v2 recommended declarati
 ```html
 <!--
   QinAvalanche Guard — ...
-  Copyright (C) 2026  Qin Chen
+  Copyright (C) 2026  Qin + Chen
   License: GNU GPL v2.  See LICENSE file for full terms.
 -->
 ```
 
 **Batch .bat / .txt comment types:**
 ```bat
-@REM  Copyright (C) 2026  Qin Chen
+@REM  Copyright (C) 2026  Qin + Chen
 @REM  License: GNU GPL v2.  See LICENSE file for full terms.
 ```
 
@@ -242,7 +242,7 @@ Every source code file MUST begin with the standard GPL v2 recommended declarati
 ## Contact & Contributing
 
 - **Issues / PRs**: GitHub repository Issues / Pull Requests
-- **Contribution CLA**: DCO-style signing required (`Signed-off-by: Your Name <email>` two-line signature at the end of commit message; see [CLA.md](CLA.md))
+- **Contribution CLA**: DCO-style signing required QIN two-line signature at the end of commit message; see [CLA.md](CLA.md))
 - **Security disclosure (non-public)**: See [CONTRIBUTING.md §10](CONTRIBUTING.md)
 
 ---
