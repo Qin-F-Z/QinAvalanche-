@@ -242,7 +242,7 @@ Every source code file MUST begin with the standard GPL v2 recommended declarati
 ## Contact & Contributing
 
 - **Issues / PRs**: GitHub repository Issues / Pull Requests
-- **Contribution CLA**: DCO-style signing required QIN two-line signature at the end of commit message; see [CLA.md](CLA.md))
+- **Contribution CLA**: DCO-style signing required <qinfunz@gmail.com> two-line signature at the end of commit message; see [CLA.md](CLA.md))
 - **Security disclosure (non-public)**: See [CONTRIBUTING.md §10](CONTRIBUTING.md)
 
 ---
