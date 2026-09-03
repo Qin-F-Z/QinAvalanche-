@@ -10,7 +10,7 @@ date-released: "2026-08-09"
 open-source-date: "2026-09-02"
 
 authors:
-  - name: "Qin Chen"
+  - name: "Q
     email: ""  # fill in with public contact email if available
 
 keywords:
@@ -19,43 +19,7 @@ keywords:
   - "Bak-Tang-Wiesenfeld"
   - "self-organized criticality"
   - "deterministic computation"
-  - "counterfactual risk mapping"
-  - "Sha-256 evidence chain"
-  - "reproducible simulation"
-  - "educational visualization"
-  - "GPLv2"
-  - "open source"
-
-license:
-  - "GPL-2.0-or-later"
-  - "GNU General Public License v2.0 (or later); OSI/FSF approved"
-
-license-url: "LICENSE"
-disclaimer-url: "DISCLAIMER.md"
-dco-url: "CLA.md"
-
-repository-code: "https://github.com/your-github-org-or-user/QinAvalanche"
-repository-artifact: "https://github.com/your-github-org-or-user/QinAvalanche/releases"
-
-abstract: |
-  QinAvalanche Guard is an open-source (GPL-2.0-or-later), offline-runnable
-  HTML5 interactive laboratory implementing the Bak–Tang–Wiesenfeld (BTW)
-  sandpile cellular-automaton model with strict integer semantics, SHA-256
-  bound state and event hashes, user-visible counterfactual risk heat-maps
-  over every possible drop location, and an AI-visual Baseline clearly
-  marked as pending blind validation. The software is expressly NOT certified,
-  audited, or validated for any safety-critical, regulated, or real-world
-  predictive use. See DISCLAIMER.md for full limitations and the file
-  LICENSE for the full GNU GPL v2 legal text.
-
-references:
-  - type: article
-    title: "Self-organized criticality: An explanation of the 1/f noise"
-    authors:
-      - family-names: "Bak"
-        given-names: "Per"
-      - family-names: "Tang"
-        given-names: "Chao"
+  - "co
       - family-names: "Wiesenfeld"
         given-names: "Kurt"
     journal: "Physical Review Letters"
